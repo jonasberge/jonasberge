@@ -1,4 +1,4 @@
-### Hi there 👋
+Currently working on improving [TIDAL Discord presence](https://github.com/purpl3F0x/TIDAL-Discord-Rich-Presence-UNOFFICIAL/pull/100), making my local Darktable library [accessible programmatically](https://github.com/jonasberge/darktable-graphql) through GraphQL for my photography portfolio and finishing my [AOC 2023 solutions](https://github.com/jonasberge/adventofcode-2023).
 
 <!--
 **jonasberge/jonasberge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
