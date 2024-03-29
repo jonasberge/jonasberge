@@ -1,4 +1,4 @@
-working on [discord-music-presence](https://github.com/jonasberge/discord-music-presence/), an application for sharing your music listening activity on any platform as a Discord status.
+working on [discord-music-presence](https://github.com/jonasberge/discord-music-presence/), a cross-platform desktop application for sharing your music listening activity on Discord.
 
 <!--
 **jonasberge/jonasberge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
