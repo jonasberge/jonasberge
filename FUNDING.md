@@ -6,6 +6,7 @@ to me (Jonas van den Berg).
 You may choose one of the following options to support me financially:
 
 - **[PayPal](https://www.paypal.com/donate/?hosted_button_id=WJE4KJ45EZQUN)**
+- **[LiberaPay](https://liberapay.com/jonasvandenberg)**
 - **[GitHub Sponsors](https://github.com/sponsors/jonasberge)**
 
 Your donation supports the development of the following projects.  
