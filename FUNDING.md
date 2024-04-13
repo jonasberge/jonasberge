@@ -17,9 +17,9 @@ Your donation supports the development of the following projects.
   Looks like Discord's Spotify status,
   but also works with TIDAL, Qobuz, foobar200
   and really any other media player.
-- *And more projects in the future...*
 
-> Click on the roadmap link, to see what features will be added next!
+> Click on the **Roadmap** link, to see where the development of each project is headed
+> and what impact your donation has! More projects will be added in the future.
 
 If you would like to make suggestions,
 you can always do that by opening an issue in the respective repository
