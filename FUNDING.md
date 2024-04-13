@@ -12,7 +12,7 @@ You may choose one of the following options to support me financially:
 Your donation supports the development of the following projects.  
 
 - **[Discord Music Presence](https://github.com/jonasberge/discord-music-presence)**
-  — [Roadmap](https://github.com/jonasberge/discord-music-presence/blob/master/README.md)  
+  — [Roadmap](https://github.com/jonasberge/discord-music-presence/blob/master/ROADMAP.md)  
   Show people what you're listening to on Discord,
   no matter the media player you use.
   Looks like Discord's Spotify status,
