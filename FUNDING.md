@@ -1,8 +1,7 @@
 # Funding and Donations
 
 You can support the development of my open-source projects
-by making a one-time or regular donation
-to me (Jonas van den Berg).
+by making a one-time or regular donation.
 You may choose one of the following options to support me financially:
 
 - **[PayPal](https://www.paypal.com/donate/?hosted_button_id=WJE4KJ45EZQUN)**
