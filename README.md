@@ -1,4 +1,8 @@
-working on [discord-music-presence](https://github.com/jonasberge/discord-music-presence/), a cross-platform desktop application for sharing your music listening activity on Discord.
+working on [discord-music-presence](https://github.com/jonasberge/discord-music-presence),
+a cross-platform desktop application for sharing your music listening activity on Discord,  
+and [loon](https://github.com/jonasberge/loon),
+a client-server protocol to make local files available online via HTTPS
+for a temporary amount of time.
 
 <!--
 **jonasberge/jonasberge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
